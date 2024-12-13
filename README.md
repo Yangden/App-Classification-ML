@@ -1,2 +1,7 @@
 # pcap-preprocess
-Preprocess raw packet streams stored in the pcap files
+
+This repository contains research work related to encrypted traffic classification.
+
+## encrypted-traffic Folder
+
+The `encrypted-traffic` folder contains a working pipeline for end-to-end classification.
