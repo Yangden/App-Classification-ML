@@ -11,8 +11,8 @@ The code available in this project can be used to simulate encrypted traffic cla
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Yangden/pcap-preprocess.git
+    cd pcap-preprocess/encrypted-traffic/
     ```
 
 2. Install the required dependencies:
